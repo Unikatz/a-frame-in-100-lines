@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   title: 'Yokai',
   description: 'LFG',
   openGraph: {
-    title: 'zizzamia.xyz',
+    title: 'Yokai',
     description: 'LFG',
     images: [`${NEXT_PUBLIC_URL}/park-1.png`],
   },
